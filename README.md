@@ -27,7 +27,7 @@ I am a **Health-priority Security Engineer** — dedicated to building systems t
 ---
 
 ### 📬 Connect with me
-- Blog : https://seclabdotblog.wordpress.com/
-- X : https://x.com/SecLifeHQ
+- Blog : https://seclabdotblog.wordpress.com
+- X : https://x.com/S_SecurityLife
 - YouTube : https://www.youtube.com/@SustainableSecurityLife
 - Gravatar : https://gravatar.com/sustainablesecuritylife
